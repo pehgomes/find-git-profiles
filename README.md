@@ -1,4 +1,5 @@
-# desafio-lux
+# find-git-profiles
+Find git profiles and repositories using github API. Project made to test Vue skills.
 
 ## Project setup
 ```
